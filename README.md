@@ -1,2 +1,2 @@
-# my-portfolio
-This is my professional portfolio
+# Biplab Mazumder's portfolio
+This is my professional portfolio. It uses AWS and React.
