@@ -145,9 +145,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .section__exampleImage {
   opacity: 0.25;
-  width: 250%;
-  margin-left: -50%;
-  margin-top: -50%;
+  width: 100%;
+  height: 100%;
+  /*margin-left: -50%;
+  margin-top: -50%;*/
 }
 
 /*
